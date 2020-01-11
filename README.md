@@ -1,2 +1,0 @@
-# ReactNativeSandbox
-Created with CodeSandbox
